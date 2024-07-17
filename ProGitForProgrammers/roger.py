@@ -17,4 +17,4 @@ plt.plot(P[:, 0], P[:, 1], 'ro--', label='Control points')
 plt.plot(B[0], B[1], 'bo', label='Bezier curve')
 plt.legend()
 plt.show()
-//Visual Studio test
+#Visual Studio test
